@@ -1,6 +1,6 @@
 from random import *
 
-Wives = ["Taylor Swift", "Hillary Clinton", "Scarlett Johansson", "Beyonce"]
+Wives = ["Taylor Swift", "She gave you the wrong number bro...", "Scarlett Johansson", "Beyonce"]
 
 Jobs = ["Rapper", "Doctor", "Teacher", "Executive", "Jailer"]
 
