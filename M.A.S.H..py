@@ -1,6 +1,7 @@
 from random import *
 
 Wives = ["Taylor Swift", "Hillary Clinton", "Scarlett Johansson", "Beyonce"]
+
 Jobs = ["Rapper", "Doctor", "Teacher", "Executive", "Jailer"]
 
 Cars = ["Ferrari F12 TDF", "DaeWoo", "Lamborghini Huracan", "Koenigsegg One:1", "Nissan Juke"]
