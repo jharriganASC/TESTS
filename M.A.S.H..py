@@ -1,18 +1,18 @@
 from random import *
 
-Wives = ["Taylor Swift", "She gave you the wrong number bro...", "Scarlett Johansson", "Beyonce"]
+Spouse = ["John Bellion", "Kate Upton", "Chris Hemsworth", "Beyonce"]
 
 Jobs = ["Rapper", "Doctor", "Teacher", "Executive", "Jailer"]
 
-Cars = ["Ferrari F12 TDF", "DaeWoo", "Lamborghini Huracan", "Koenigsegg One:1", "Nissan Juke"]
+Cars = ["Ferrari F12 TDF", "Nissan Altima", "Lamborghini Huracan", "Koenigsegg One:1", "Nissan Juke"]
 
 Home = ["mansion", "apartment", "shack", "house"]
 
 
 
-myWives = raw_input("Who do you want to be your wife?")
+mySpouse = raw_input("Who do you want to be your spouse?")
 
-randomWife = choice(Wives)
+randomSpouse = choice(Spouse)
 
 
 myJobs = raw_input("What kind of job would you like?")
@@ -32,7 +32,14 @@ randomCar = choice(Cars)
 randomHome = choice(Home)
 
 
-print("Your wife is" , randomWife)
+
+
+
+
+
+
+
+print("Your spouse is" , randomSpouse)
 print("Your job is" , randomJob)
 print("You'll have a" , randomCar)
 print("You'll live in a" , randomHome)
